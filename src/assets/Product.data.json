@@ -1,0 +1,41 @@
+{
+   "items":
+   [
+    
+      {
+        "title": "Model 3",
+        "imageUrl": "https://delo.ua/files/news/images/3428/70/picture2_u-tesla-model-3-n_342870_p0.jpg",
+        "id": 1,
+        "price": 30000.00,
+        "description": "Ain't she's a beauty. "
+      },
+      {
+        "title": "Model Y",
+        "imageUrl": "https://auto.24tv.ua/resources/photos/news/930x523_DIR/202002/19251367aeff0-3b29-472a-8240-a924a770b9eb.jpg",
+        "id": 2,
+        "price": 43000,
+        "description": "Ladies and Gentlemen - meet THE FUTURE"
+      },
+      {
+        "title": "CYBERTRUCK",
+        "imageUrl": "https://24tv.ua/resources/photos/news/1200x675_DIR/201911/1241494.jpg",
+        "id": 3,
+        "price": 39900,
+        "description": "Mars rover in the flash"
+      },
+      {
+        "title": "Model S",
+        "imageUrl": "https://hevcars.com.ua/wp-content/uploads/2017/05/tesla-model-s-2017-exterior-hevcars-01.jpg",
+        "id": 4,
+        "price": 69900,
+        "description": "Tesla Model S P100D (Performance)"
+      },
+      {
+        "title": "Tesla Roadster",
+        "imageUrl": "https://netrinoimages.s3.eu-west-2.amazonaws.com/2014/02/13/370112/210377/tesla_roadster_2020_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_2217501_o.png",
+        "id": 5,
+        "price": 200000,
+        "description": "Tesla Roadster 2020 - nothing more to say"
+      }
+    ]
+}
